@@ -1,3 +1,2 @@
-Used [Mit app inventor][appinventorlink] to create.
+Used [Mit app inventor](https://code2.appinventor.mit.edu/) to create.
 the source code is the app inventor file, import it using app inventor
-[appinventorlink] https://code2.appinventor.mit.edu/
